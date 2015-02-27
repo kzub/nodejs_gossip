@@ -9,9 +9,9 @@ reset
 reset <peer>
 color <css_color>
 
-NODES to build a network
+<br>NODES to build a network<br>
 <img src="img2.png">
-network broken example
+<br>network broken example<br>
 <img src="img3.jpg">
-rebuilded network
+<br>rebuilded network<br>
 <img src="img4.jpg">
