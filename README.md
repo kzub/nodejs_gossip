@@ -2,12 +2,12 @@
 nodejs gossip protocol implementation
 
 <b>nodejs gossip.js<b/> <br>
-connect to localhost:8080 in chrome browser to processes
+connect to localhost:8080 in chrome to view network state
 
-console commands:
-reset
-reset <peer>
-color <css_color>
+console commands:<br>
+reset<br>
+reset peer<br>
+color css_color<br>
 
 <br>NODES to build a network<br>
 <img src="img2.png">
