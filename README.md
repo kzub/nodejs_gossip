@@ -9,4 +9,4 @@ reset
 reset <peer>
 color <css_color>
 
-<img src="/../../img3.png">
+<img src="img2.png">
